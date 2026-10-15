@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Vasiliy",
+        "Surname": "Logvinov",
+        "Patronymic": "Antonovich",
+        "Adress": "Mira 5",
+        "School": 9,
+        "Class": 6
+    },
+    {
+        "Name": "Anton",
+        "Surname": "Lipovyi",
+        "Patronymic": "Andreevich",
+        "Adress": "Naberezhnaya 10",
+        "School": 10,
+        "Class": 10
+    },
+    {
+        "Name": "Alina",
+        "Surname": "Popovich",
+        "Patronymic": "Viktorovna",
+        "Adress": "Pushkina 5",
+        "School": 10,
+        "Class": 11
+    },
+    {
+        "Name": "Olena",
+        "Surname": "Ivanova",
+        "Patronymic": "Petrovna",
+        "Adress": "Shevchenka 12",
+        "School": 5,
+        "Class": 8
+    },
+    {
+        "Name": "Dmytro",
+        "Surname": "Kovalenko",
+        "Patronymic": "Serhiyovych",
+        "Adress": "Franka 3",
+        "School": 10,
+        "Class": 7
+    }
+]
